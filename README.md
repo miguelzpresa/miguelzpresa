@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Miguel Ángel Zamorano</h1>
-<h3 align="center">An IT student Passionate about applying computational methods to solve problems. I combine quantitative and algorithmic skills to analyze data using methods of continuous and discrete probability, graph theory, machine learning, and deep learning. Currently, I am deepening my knowledge of optimization to take my data analysis skills to the next level.</h3>
+<h3 align="center">An IT student Passionate about applying computational methods to solve problems. I combine quantitative and algorithmic skills to analyze data using methods of continuous and discrete probability, graph theory, machine learning, and deep learning.  I am skilled in designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting. Additionally, I possess a deep understanding of optimization algorithms, allowing me to efficiently train complex models and achieve optimal performance.l.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelzpresa&label=Profile%20views&color=0e75b6&style=flat" alt="miguelzpresa" /> </p>
 
-- 🔭 I’m currently working on [I am currently conducting research with my professor on RNG graphs](https://github.com/miguelzpresa/Espherical-RNG-Graphs)
+- 🔭 I’m currently working on [ conducting research with my professor on RNG graphs](https://github.com/miguelzpresa/Espherical-RNG-Graphs)
 
 - 🌱 I’m currently learning **Evolutionary Computation,OpenMPI, Power BI,tableau**
 
