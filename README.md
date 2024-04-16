@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Miguel Ángel Zamorano</h1>
-<h3 align="center">A passionate IT student Passionate about applying computational methods to solve problems. I combine quantitative and algorithmic skills to analyze data using methods of continuous and discrete probability, graph theory, machine learning, and deep learning. Currently, I am deepening my knowledge of optimization to take my data analysis skills to the next level.</h3>
+<h3 align="center">An IT student Passionate about applying computational methods to solve problems. I combine quantitative and algorithmic skills to analyze data using methods of continuous and discrete probability, graph theory, machine learning, and deep learning. Currently, I am deepening my knowledge of optimization to take my data analysis skills to the next level.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelzpresa&label=Profile%20views&color=0e75b6&style=flat" alt="miguelzpresa" /> </p>
 
