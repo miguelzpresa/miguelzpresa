@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Miguel Ángel Zamorano</h1>
-An IT student passionate about applying computational methods to solve problems. I combine quantitative and algorithmic skills to analyze data using methods of hypotesis testing ,multivariate statistics, probability, graph theory,data minning, machine learning, and deep learning.  I am skilled in designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting.
+An IT student passionate about applying computational methods to solve problems. I combine quantitative and algorithmic skills to analyze data and build AI, using  hypotesis testing ,multivariate statistics, probability, graph theory,data minning, machine learning, and deep learning.  I am skilled in designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelzpresa&label=Profile%20views&color=0e75b6&style=flat" alt="miguelzpresa" /> </p>
 
