@@ -5,7 +5,7 @@ An IT student, passionate about applying computational methods to solve problems
 
 - 🔭 I’m currently working on [ conducting research with my professor on RNG graphs](https://github.com/miguelzpresa/Espherical-RNG-Graphs)
 
-- 🌱 I’m currently learning **Evolutionary Computation,OpenMPI, Power BI,tableau**
+- 🌱 I’m currently learning **Evolutionary Computation,OpenMPI, mlflow ,Power BI,tableau**
 
 - 👨‍💻 All of my projects are available at [https://github.com/miguelzpresa?tab=repositories](https://github.com/miguelzpresa?tab=repositories)
 
