@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Miguel </h1>
-AI Developer | Machine Learning Engineer & Data Analyst
+AI Developer | Machine Learning Engineer & Data Analyst  
+
 With  2+ years of dedicated specialization in building, debugging, and  optimizing intelligent systems. Proven expertise in developing  end-to-end analytical data solutions. Passionate about applying advanced  computational methods to solve complex problems. I combine strong  quantitative skills with algorithmic thinking to transform data into  actionable AI solutions that drive measurable impact for organizations  and customers. 
 
 
