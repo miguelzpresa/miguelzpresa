@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Miguel </h1>
-An IT student, passionate about applying computational methods to solve problems. I combine quantitative and algorithmic skills to analyze data and build AI, using  hypotesis testing ,multivariate statistics, probability, graph theory,data minning, machine learning, and deep learning.  
+AI Developer | Machine Learning Engineer & Data Analyst
+With  2+ years of dedicated specialization in building, debugging, and  optimizing intelligent systems. Proven expertise in developing  end-to-end analytical data solutions. Passionate about applying advanced  computational methods to solve complex problems. I combine strong  quantitative skills with algorithmic thinking to transform data into  actionable AI solutions that drive measurable impact for organizations  and customers. 
 
 
 I am skilled in designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting.
