@@ -2,7 +2,7 @@
 
 ## AI Developer | Machine Learning Engineer & Data Analyst
 
-With  2+ years of dedicated specialization in building, debugging, and  optimizing intelligent systems. Proven expertise in developing  end-to-end analytical data solutions. Passionate about applying advanced  computational methods to solve complex problems. I combine strong  quantitative skills with algorithmic thinking to transform data into  actionable AI solutions that drive measurable impact for organizations  and customers. 
+With  2+ years of dedicated specialization in building, debugging, and  optimizing intelligent systems. . Passionate about applying advanced  computational methods to solve complex problems. I combine strong  quantitative skills with algorithmic thinking to transform data into  actionable AI solutions that drive measurable impact for organizations  and customers. 
 
 
 I am skilled in designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting.
@@ -11,7 +11,7 @@ I am skilled in designing, training, and optimizing neural network architectures
 
 - 🔭 I’m currently working on [ conducting research with my professor on RNG graphs](https://github.com/miguelzpresa/Espherical-RNG-Graphs)
 
-- 🌱 I’m currently learning **Evolutionary Computation,OpenMPI, mlflow ,Power BI,tableau**
+- 🌱 I’m currently learning **Fast API,Power BI,AWS ecosystem**
 
 - 👨‍💻 All of my projects are available at [https://github.com/miguelzpresa?tab=repositories](https://github.com/miguelzpresa?tab=repositories)
 
