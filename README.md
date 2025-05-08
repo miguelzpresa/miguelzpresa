@@ -15,7 +15,8 @@ I am skilled in designing, training, and optimizing neural network architectures
 
 - 👨‍💻 All of my projects are available at [https://github.com/miguelzpresa?tab=repositories](https://github.com/miguelzpresa?tab=repositories)
 
-- 📝 I regularly write articles on [my head](my head)
+- 📝 I regularly write articles on [my head](my head),
+- check my new youtube episode about Modelos de Lenguaje: Transformers y Mistral7b channel: miguel Zamorano https://youtu.be/efYnN8F52wI
 
 - 💬 Ask me about **Software Development,Artificial Intelligence**
 
