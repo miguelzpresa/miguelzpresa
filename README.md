@@ -10,7 +10,7 @@ My name is Miguel. A few words about me:
 
 - 🔭 I’m currently working on [ conducting research with my professor on RNG graphs](https://github.com/miguelzpresa/Espherical-RNG-Graphs)
 
-- 🌱 I’m currently learning **MLOPS, Fast API,Power BI,AWS ecosystem**
+- 🌱 I’m currently learning **MLops, Fast API,Power BI,AWS ecosystem**
 
 - ⚡ Check my new youtube episode about Modelos de Lenguaje: Transformers y Mistral7b. Channel: miguel Zamorano https://youtu.be/efYnN8F52wI
 
