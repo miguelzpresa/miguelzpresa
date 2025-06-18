@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, Welcome to my GitHub profile! </h1>  
+## Hi there 👋, Welcome to my GitHub profile!
 My name is Miguel. A few words about me:  
 * 🧑‍🔬 I am an experienced data scientist |AI Developer | Machine Learning Engineer & Data Analyst with  5+ years of experience.  
 * ⚡ with  3+ years of dedicated specialization in building, debugging, and  optimizing intelligent systems.  designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting.  
