@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/miguel-a-z-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-a-z-p" height="30" width="40" /></a>
 
 My name is Miguel. A few words about me:  
-* 🧑‍🔬 I am an experienced Data Scientist |AI Developer | Machine Learning Engineer & Data Analyst with  5+ years of experience.  
+* 🧑‍🔬 I am an experienced Data Scientist |AI Developer  with  5+ years of experience.  
 * ⚡ with  3+ years of dedicated specialization in building, debugging, and  optimizing intelligent systems.  designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelzpresa&label=Profile%20views&color=0e75b6&style=flat" alt="miguelzpresa" /> </p>
