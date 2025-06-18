@@ -1,11 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Miguel </h1>  
-
-## AI Developer | Machine Learning Engineer & Data Analyst
-
-With  2+ years of dedicated specialization in building, debugging, and  optimizing intelligent systems. . Passionate about applying advanced  computational methods to solve complex problems. I combine strong  quantitative skills with algorithmic thinking to transform data into  actionable AI solutions that drive measurable impact for organizations  and customers. 
-
-
-I am skilled in designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting.
+<h1 align="center">Hi there 👋, Welcome to my GitHub profile! </h1>  
+My name is Miguel. A few words about me:  
+* 🧑‍🔬 I am an experienced data scientist |AI Developer | Machine Learning Engineer & Data Analyst with  5+ years of experience.  
+* ⚡ with  3+ years of dedicated specialization in building, debugging, and  optimizing intelligent systems.  designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting.  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguelzpresa&label=Profile%20views&color=0e75b6&style=flat" alt="miguelzpresa" /> </p>
 
@@ -22,7 +18,7 @@ I am skilled in designing, training, and optimizing neural network architectures
 
 - 📫 How to reach me **mikezpresa@comunidad.unam.mx**
 
-- ⚡ Fun fact **Calisthenics, cycling, and chess are my absolute jam!**
+- ⚡ In my spare time, I like playing video games 🎮, reading books 📖, and traveling 🛫.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
