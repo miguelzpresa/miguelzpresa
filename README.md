@@ -1,4 +1,6 @@
-## Hi there 👋, Welcome to my GitHub profile!
+###  Hi there 👋, Welcome to my GitHub profile!  
+<a href="https://linkedin.com/in/miguel-a-z-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-a-z-p" height="30" width="40" /></a>
+
 My name is Miguel. A few words about me:  
 * 🧑‍🔬 I am an experienced data scientist |AI Developer | Machine Learning Engineer & Data Analyst with  5+ years of experience.  
 * ⚡ with  3+ years of dedicated specialization in building, debugging, and  optimizing intelligent systems.  designing, training, and optimizing neural network architectures for various tasks, including image recognition, natural language processing, and time series forecasting.  
@@ -22,7 +24,7 @@ My name is Miguel. A few words about me:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/miguel-a-z-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miguel-a-z-p" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/@mikezpresa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mikezpresa" height="30" width="40" /></a>
 </p>
 
